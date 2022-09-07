@@ -1,0 +1,26 @@
+Pasos git
+
+1. Configurar
+git config --global user.name ""
+git config --global user.email ""
+
+2. Clonar repositorio
+git clone URL del repositorio en gitHub
+
+3.Iniciar repositorio
+git init
+
+4. Descargar cambios del repositorio
+git pull origin main
+
+5.Adicionar 
+git add .
+
+6. Comentar (linea de tiempo)
+git commit -m ""
+
+7.Enviar cambios
+git push - u origin main
+
+
+
